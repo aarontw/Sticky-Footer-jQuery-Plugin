@@ -7,10 +7,10 @@ Huh? What is it?
 This is a jQuery plugin to create a sticky, collapsible footer.
 
 *Features:*
-1) The footer will only anchor itself to the bottom of the window when the hight of the content is greater than that of the window.
-2) The footer will self expand (open) as the user scrolls to teh bottom of the page.
-3) There are configurable callbacks to change the active, inactive, open and closed states of the toggle.
-4) Supported by all modern browsers (IE6 is not a modern browser ;))
+1. The footer will only anchor itself to the bottom of the window when the hight of the content is greater than that of the window.
+2. The footer will self expand (open) as the user scrolls to teh bottom of the page.
+3. There are configurable callbacks to change the active, inactive, open and closed states of the toggle.
+4. Supported by all modern browsers (IE6 is not a modern browser ;))
 
 Take a look at it in action here: [Down to the Wire](http://downtothewire.co.nz/the-beginning-1989/)
 
